@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "name": "note-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Wender Zacarias Xavier",
+  "license": "ISC",
+  "description": "Simple Note Apps using Next.js"
+}
